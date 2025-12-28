@@ -1,10 +1,3 @@
-Perfect 👍
-Here is a **clean, professional, assignment-ready `README.md`** that you can **directly copy–paste**.
-
-This README is written exactly the way **evaluators / recruiters expect**.
-
----
-
 # 🤖 TalentScout Hiring Assistant
 
 An intelligent Hiring Assistant chatbot built for **initial technical screening** of candidates at *TalentScout*, a fictional recruitment agency specializing in technology placements.
